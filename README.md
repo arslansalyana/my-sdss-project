@@ -5,27 +5,29 @@ This project demonstrates the use of the Analytical Hierarchy Process (AHP) and 
 
 ## Key Features
 
-Criteria Identification and Weighting using AHP
-Raster Data Processing and Normalization
-Weighted Overlay Analysis to Combine Criteria
-Suitability Classification
-Visualization of Suitability Map
+1. Criteria Identification and Weighting using AHP
+2. Raster Data Processing and Normalization
+3. Weighted Overlay Analysis to Combine Criteria
+4. Suitability Classification
+5. Visualization of Suitability Map
 
 ## Dependencies
 
-Python 3.x
-NumPy
-Rasterio
-GeoPandas
-Matplotlib
+1. Python 3.x
+2. NumPy
+3. Rasterio
+4. GeoPandas
+5. Matplotlib
 
 ## Input Data
 
-Raster datasets representing:
-Schools
-Hospitals
-Roads
-Transportation
+A. Criteria and their weights
+
+B. Raster datasets representing:
+1. Schools
+2. Hospitals
+3. Roads
+4. Transportation
 
 ## Output
 
